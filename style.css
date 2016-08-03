@@ -19,7 +19,6 @@ html {
   margin-right: auto;
   height: 300px;
   width:275px;
-  display: none;
 }
 #hendrix {
     background-image: url('../pictures/Hendrix.jpg');
@@ -30,7 +29,6 @@ html {
     margin-right: auto;
     height: 300px;
     width:275px;
-    display: none;
 }
 #pearl {
     background-image: url('../pictures/Pearl.jpg');
@@ -41,5 +39,12 @@ html {
     margin-right: auto;
     height: 300px;
     width:275px;
-    display: none;
+}
+.comics,
+.music,
+.movies {
+  display: none;
+}
+ul {
+    list-style: none;
 }
