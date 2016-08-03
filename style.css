@@ -1,0 +1,13 @@
+* {
+    font-family: helvetica;
+    color: #cccccc;
+
+    text-align: center;
+}
+html {
+    background: url(https://jimrogersenergy.com/wp-content/uploads/2015/06/blue-dark-windows-desktop-wallpaper-wallpaper-blue-backgrounds-for-websites-wallpaperblue-dark-background-white-light-windows-desktop.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
