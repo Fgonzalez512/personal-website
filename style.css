@@ -1,7 +1,6 @@
 * {
     font-family: helvetica;
     color: #cccccc;
-
     text-align: center;
 }
 html {
@@ -10,4 +9,37 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+#ashley{
+  background-image: url('../pictures/Ashley.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width:275px;
+  display: none;
+}
+#hendrix {
+    background-image: url('../pictures/Hendrix.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width:275px;
+    display: none;
+}
+#pearl {
+    background-image: url('../pictures/Pearl.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width:275px;
+    display: none;
 }
