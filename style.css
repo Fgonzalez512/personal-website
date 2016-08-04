@@ -10,7 +10,25 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
-#under {
+#underline1 {
+    text-decoration: underline;
+}
+#underline2 {
+    text-decoration: underline;
+}
+#underline3 {
+    text-decoration: underline;
+}
+#underline4 {
+    text-decoration: underline;
+}
+#underline5 {
+    text-decoration: underline;
+}
+#underline6 {
+    text-decoration: underline;
+}
+#underline7 {
     text-decoration: underline;
 }
 #ashley {
