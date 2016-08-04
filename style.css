@@ -13,35 +13,37 @@ html {
 #under {
     text-decoration: underline;
 }
-#ashley{
-  background-image: url('../pictures/Ashley.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  height: 300px;
-  width:275px;
-  display: inline-block;
+#ashley {
+    background-image: url('../pictures/Ashley.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+    width: 275px;
+    display: inline-block;
 }
 #hendrix {
-  background-image: url('../pictures/Hendrix.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-  height: 300px;
-  width:275px;
-  display: inline-block;
+    background-image: url('../pictures/Hendrix.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+    width: 275px;
+    display: inline-block;
 }
 #pearl {
-  background-image: url('../pictures/Pearl.jpg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  height: 300px;
-  width:275px;
-  display: inline-block;
+    background-image: url('../pictures/Pearl.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+    width: 275px;
+    display: inline-block;
 }
-.comics,
-.music,
-.movies {
-  display: none;
+.comics, .music, .movies {
+    display: none;
+}
+.button {
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
 }
 ul {
     list-style: none;

@@ -1,11 +1,11 @@
-$(document).ready(function(){
+$(document).ready(function() {
     $('#comics-button').on('click', function(event) {
-         $('.comics').toggle('show');
+        $('.comics').toggle('show');
     });
     $('#movies-button').on('click', function(event) {
-         $('.movies').toggle('show');
+        $('.movies').toggle('show');
     });
     $('#music-button').on('click', function(event) {
-         $('.music').toggle('show');
+        $('.music').toggle('show');
     });
 });
