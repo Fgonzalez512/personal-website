@@ -14,7 +14,7 @@ html {
     text-decoration: underline;
 }
 #ashley {
-    background-image: url('../pictures/Ashley.jpg');
+    background-image: url('https://github.com/d4rkkn1gh787/personal-website/blob/master/pictures/Ashley.jpg?raw=true');
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
@@ -22,7 +22,7 @@ html {
     display: inline-block;
 }
 #hendrix {
-    background-image: url('../pictures/Hendrix.jpg');
+    background-image: url('https://github.com/d4rkkn1gh787/personal-website/blob/master/pictures/Hendrix.jpg?raw=true');
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
@@ -30,7 +30,7 @@ html {
     display: inline-block;
 }
 #pearl {
-    background-image: url('../pictures/Pearl.jpg');
+    background-image: url('https://github.com/d4rkkn1gh787/personal-website/blob/master/pictures/Pearl.jpg?raw=true');
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
